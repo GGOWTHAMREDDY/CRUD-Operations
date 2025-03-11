@@ -4,7 +4,7 @@ A simple CRUD (Create, Read, Update, Delete) web app built with Flask and a data
 
 ## 🚀 Features
 - Create, Read, Update, Delete records
-- Fla + SQLAlchemy (or your DB)
+- Flask + SQLAlchemy (or your DB)
 
 ## 🛠 Tech Stack
 - **Backend:** Flask, SQLAlchemy
