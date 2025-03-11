@@ -12,7 +12,6 @@ A simple CRUD (Create, Read, Update, Delete) web app built with Flask and a data
 
 ## 📂 Setup
 1. **CREATE ENVIRINOMENT**   (If your using Visual Studio as IDE)
-**TYPE IN TERMINAL**
 - pip install virtualenv     - To install all packages
 - virtualenv env             - Created a file 'env' to store packages
 - env\scripts\activate.bat   - To activate the FLASK
