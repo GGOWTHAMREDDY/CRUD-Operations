@@ -42,6 +42,6 @@ pip install flask          - To install the Flask
 
 ## 🌐 Open in Browser
 
-After running, the app will be available at:
+After running, the app will be available at: 
 👉 http://127.0.0.1:5000/
 Open this URL in any web browser.
